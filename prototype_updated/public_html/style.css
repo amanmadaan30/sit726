@@ -1,0 +1,40 @@
+body {
+  background-color: #121212;
+  scroll-behavior: smooth;
+}
+
+.navbar-brand img {
+  border-radius: 40%;
+}
+
+.hero-section {
+  background-image: url('event-background-dark.jpg');
+  background-size: cover;
+  color: rgb(136, 6, 6);
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+}
+
+footer {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.card-body a {
+  font-size: 1.1rem;
+}
+
+.card img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.text-light {
+  color: #f8f9fa !important;
+}
